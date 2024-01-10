@@ -1,0 +1,50 @@
+{
+    "name": "Theme with base icons",
+    "description": "",
+    "elements": [
+        {
+            "tag": "PHP",
+            "icon": "new-php-logo.png"
+        },
+        {
+            "tag": "Laminas",
+            "icon": "laminas-foundation-white.svg"
+        },
+        {
+            "tag": "Laminas - Mezzio",
+            "icon": "laminas-mezzio-rgb.svg"
+        },
+        {
+            "tag": "Laminas - Components",
+            "icon": "laminas-components-rgb.svg"
+        },
+        {
+            "tag": "Laminas - MVC",
+            "icon": "laminas-mvc-rgb.svg"
+        },
+        {
+            "tag": "Laminas - API Tools",
+            "icon": "laminas-api-tools-rgb.svg"
+        },
+        {
+            "tag": "MySQL",
+            "icon": "logo-mysql-170x115.png"
+        },
+        {
+            "tag": "TYPO3",
+            "icon": "logo-typo3.svg"
+        },
+        {
+            "tag": "Platform.sh",
+            "icon": "Platformsh_logo_black.png"
+        },
+        {
+            "tag": "Docker",
+            "icon": "logo-guide-logos-1.svg"
+        },
+        {
+            "tag": "Solr",
+            "icon": "Solr_Logo_on_white.png"
+        }
+    ]
+}
